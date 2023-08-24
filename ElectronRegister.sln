@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronRegister", "ElectronRegister\ElectronRegister.csproj", "{3F37DA76-55E2-4049-8E7F-53C9219F5E98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F37DA76-55E2-4049-8E7F-53C9219F5E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F37DA76-55E2-4049-8E7F-53C9219F5E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F37DA76-55E2-4049-8E7F-53C9219F5E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F37DA76-55E2-4049-8E7F-53C9219F5E98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97894920-5E16-45F3-ADF9-F3BC9F9E5EA1}
+	EndGlobalSection
+EndGlobal
